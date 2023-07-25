@@ -161,7 +161,7 @@ const options3 = {
     type: 'treemap'
   },
   title: {
-    text: 'Distibuted Treemap (different color for each cell)',
+    text: '(different color for each cell)',
     align: 'center'
   },
   colors: [
